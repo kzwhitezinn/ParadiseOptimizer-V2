@@ -7,7 +7,8 @@
 - Deixe ele totalmente rapido ⏰
 - Interface minimalista 🎨
 
-Observacoes : Execute como administrador e **Crie um ponto de restauracao**
+
+Observacoes :
   ```
 Execute como administrador
   ```
@@ -20,5 +21,5 @@ Desenvolvido por [@kzWhitezinn](https://discord.gg/ZjXNMJBMMV)
 
 <h3 align="center"><i>Optimizer</i></h3>
 <p align="center">
-<img src="https://github.com/kzwhitezinn/ParadiseOptimizerV.5/blob/main/CaptureOptimizer.PNG"/>
+<img src="https://github.com/kzwhitezinn/ParadiseOptimizer-V2/blob/main/Optimizer1.PNG"/>
 </p>
