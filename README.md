@@ -14,7 +14,7 @@ Execute como administrador
   ```
 
   ```
-**Crie um ponto de restauracao**
+Crie um ponto de restauracao
   ```
 
 Desenvolvido por [@kzWhitezinn](https://discord.gg/ZjXNMJBMMV)
